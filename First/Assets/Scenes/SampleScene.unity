@@ -764,8 +764,12 @@ MonoBehaviour:
   camera: {fileID: 0}
   rayColor: {r: 0.9339623, g: 0.902, b: 0.3039783, a: 1}
   targetToFollow: {fileID: 800742603}
+  center: {x: 0, y: 0, z: 0}
+  playerGO: {fileID: 800742603}
   cameraMoveAmount: 0.5
+  camBoundSize: 60
   frustumHeight: 0
+  frustumWidth: 0
 --- !u!1 &1001732020
 GameObject:
   m_ObjectHideFlags: 0
